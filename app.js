@@ -10,6 +10,7 @@ var options = {};
 if (process.env.PARSE_SERVER_OPTIONS) {
 
 	options = JSON.parse(process.env.PARSE_SERVER_OPTIONS);
+  console.log(options)
 
 } else {
 
@@ -46,5 +47,3 @@ var port = process.env.PORT || 1337;
 app.listen(port, function() {
   console.log('parse-server-example running on http://localhost:'+ port + mountPath);
 });
-
-job.start();
