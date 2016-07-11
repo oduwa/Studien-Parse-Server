@@ -17,4 +17,4 @@ curl -X POST \
 curl -X GET \
   -H "X-Parse-Application-Id: cWXjlwyKH3BwBbxFjhun4IJAlOhrU5PuoURXSmFT" \
   -H "X-Parse-REST-API-Key: gBnGei76iDjgKDE8Aq5LWYJTADZpZW8bf7fcQkpm" \
-  https://studien-server.herokuapp.com/classes/Subject
+  http://studien-server.herokuapp.com/parse/classes/Subject

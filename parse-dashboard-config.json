@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://animehub-server.herokuapp.com/parse",
+      "serverURL": "http://studien-server.herokuapp.com/parse",
       "appId": "cWXjlwyKH3BwBbxFjhun4IJAlOhrU5PuoURXSmFT",
       "masterKey": "y078995uSeCNpTHC69EatJhLIkRgc9Rkz6fWQd9N",
       "appName": "Studien",
