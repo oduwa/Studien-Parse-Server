@@ -1,5 +1,5 @@
 {
-  "name": "animehub-parse-server",
+  "name": "studien-parse-server",
   "version": "1.0.0",
   "description": "For more info, refer to https://github.com/ParsePlatform/parse-server",
   "main": "app.js",
