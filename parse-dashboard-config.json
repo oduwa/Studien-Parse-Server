@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://animehub-server.herokuapp.com/parse",
+      "appId": "sZHbbjk7aiDf4RG3vnJch1ZVxsqZDJXZOcmeFVqS",
+      "masterKey": "afaUg7C2OAQ6dnpe7YL20oTRirKOz9ndpQCxv4ba",
+      "appName": "Animehub",
+      "production": false
+    }
+  ]
+}
